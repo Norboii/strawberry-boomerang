@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "118073568854",
+    "firebase_url": "https://strawberry-boomerang-42fa5.firebaseio.com",
+    "project_id": "strawberry-boomerang-42fa5",
+    "storage_bucket": "strawberry-boomerang-42fa5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118073568854:android:db9af46aa295b8b9",
+        "android_client_info": {
+          "package_name": "nl.fullsession.imp.strawberryboomerang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118073568854-brdghjimdalovsrc013i9bv717m9brkr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOmPePUiaKdhuOI5a3MpklMPme_qMFpAU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
