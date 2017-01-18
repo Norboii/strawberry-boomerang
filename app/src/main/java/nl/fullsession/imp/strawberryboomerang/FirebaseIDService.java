@@ -1,23 +1,9 @@
 package nl.fullsession.imp.strawberryboomerang;
 
-//import android.app.Service;
-//import android.content.Intent;
-//import android.os.IBinder;
-import android.util.Log;
 
+import android.util.Log;
 import com.google.firebase.iid.FirebaseInstanceId;
 import com.google.firebase.iid.FirebaseInstanceIdService;
-
-//public class FirebaseIDService extends Service {
-//    public FirebaseIDService() {
-//    }
-//
-//    @Override
-//    public IBinder onBind(Intent intent) {
-//        // TODO: Return the communication channel to the service.
-//        throw new UnsupportedOperationException("Not yet implemented");
-//    }
-//}
 
 public class FirebaseIDService extends FirebaseInstanceIdService {
     private static final String TAG = "FirebaseIDService";
